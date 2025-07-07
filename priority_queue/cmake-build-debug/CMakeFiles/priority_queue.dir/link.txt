@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/priority_queue.dir/code6.cpp.o -o priority_queue 
