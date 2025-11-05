@@ -1,4 +1,0 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S "/mnt/c/Users/1/OneDrive/桌面/2025 数据结构/1031 STLite-ACM-2025/priority_queue" -B "/mnt/c/Users/1/OneDrive/桌面/2025 数据结构/1031 STLite-ACM-2025/priority_queue/cmake-build-debug"
--- Configuring done (0.7s)
--- Generating done (1.4s)
--- Build files have been written to: /mnt/c/Users/1/OneDrive/桌面/2025 数据结构/1031 STLite-ACM-2025/priority_queue/cmake-build-debug

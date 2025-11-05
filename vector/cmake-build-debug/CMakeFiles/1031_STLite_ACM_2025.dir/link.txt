@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/1031_STLite_ACM_2025.dir/code7.cpp.o -o 1031_STLite_ACM_2025 

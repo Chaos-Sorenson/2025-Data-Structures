@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/vector.dir/code7.cpp.o -o vector 
