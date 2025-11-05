@@ -1,4 +1,0 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S "/mnt/c/Users/1/OneDrive/桌面/2025 数据结构/1032 B班 + 工科 Homework 1/5" -B "/mnt/c/Users/1/OneDrive/桌面/2025 数据结构/1032 B班 + 工科 Homework 1/5/cmake-build-debug"
--- Configuring done (0.1s)
--- Generating done (0.2s)
--- Build files have been written to: /mnt/c/Users/1/OneDrive/桌面/2025 数据结构/1032 B班 + 工科 Homework 1/5/cmake-build-debug

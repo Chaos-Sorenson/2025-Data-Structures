@@ -1,3 +1,0 @@
-/mnt/c/Users/1/OneDrive/桌面/2025 数据结构/1069 B班Homework 2/7/cmake-build-debug/CMakeFiles/7.dir
-/mnt/c/Users/1/OneDrive/桌面/2025 数据结构/1069 B班Homework 2/7/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/1/OneDrive/桌面/2025 数据结构/1069 B班Homework 2/7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

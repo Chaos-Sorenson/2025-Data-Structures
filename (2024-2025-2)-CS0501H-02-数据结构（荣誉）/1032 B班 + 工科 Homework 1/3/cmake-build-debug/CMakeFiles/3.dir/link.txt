@@ -1,1 +1,0 @@
-/usr/bin/c++  -fsanitize=address,undefined -fno-omit-frame-pointer -g CMakeFiles/3.dir/main3.cpp.o -o 3 
